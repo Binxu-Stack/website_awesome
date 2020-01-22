@@ -1,15 +1,18 @@
--   [Useful or interesting website.](#useful-or-interesting-website.)
+-   [Useful or interesting website](#useful-or-interesting-website)
     -   [Journals](#journals)
     -   [Tools](#tools)
+        -   [latex](#latex)
         -   [Extract data from a graph](#extract-data-from-a-graph)
-        -   [Making or converting documents](#making-or-converting-documents)
-        -   [Remote desktop:](#remote-desktop)
+        -   [Making or converting
+            documents](#making-or-converting-documents)
+        -   [Remote desktop](#remote-desktop)
     -   [Ploting or design](#ploting-or-design)
         -   [Making graphs](#making-graphs)
         -   [Viewer](#viewer)
         -   [Colors](#colors)
     -   [Coding](#coding)
-        -   [Community or useful platform](#community-or-useful-platform)
+        -   [Community or useful
+            platform](#community-or-useful-platform)
         -   [Python](#python)
         -   [C or C++](#c-or-c)
         -   [Fortran](#fortran)
@@ -21,10 +24,11 @@
         -   [High-throughput calculation](#high-throughput-calculation)
         -   [HPC](#hpc)
         -   [Math and Physics](#math-and-physics)
-    -   [Other useful packages or website](#other-useful-packages-or-website)
+    -   [Other useful packages or
+        website](#other-useful-packages-or-website)
 
-Useful or interesting website.
-==============================
+Useful or interesting website
+=============================
 
 Journals
 --------
@@ -36,17 +40,24 @@ Journals
 -   Physical Review Letter: <https://journals.aps.org/prl>
 -   Physical Review B: <https://journals.aps.org/prb/>
 -   Physical Review E: <https://journals.aps.org/pre/>
--   Acta materialia: <https://www.journals.elsevier.com/acta-materialia/>
+-   Acta materialia:
+    <https://www.journals.elsevier.com/acta-materialia/>
 -   Materials today: <https://www.materialstoday.com/>
 
 Tools
 -----
 
+### latex
+
+-   Table generator for latex/markdown/html
+    <http://www.tablesgenerator.com/latex_tables>
+
 ### Extract data from a graph
 
 -   Datathief: <http://www.datathief.org/>
 -   digitizer: <http://getdata-graph-digitizer.com/index.php>
--   imageJ: <http://lukemiller.org/index.php/2011/09/digitizing-data-from-old-figures-with-imagej/>
+-   imageJ:
+    <http://lukemiller.org/index.php/2011/09/digitizing-data-from-old-figures-with-imagej/>
 
 ### Making or converting documents
 
@@ -55,7 +66,7 @@ Tools
 -   Jekyllrb: <https://jekyllrb.com/>
 -   mkdoc: <http://www.mkdocs.org/>
 
-### Remote desktop:
+### Remote desktop
 
 -   Teamviewer: <https://www.teamviewer.com/en/download/linux/>
 
@@ -64,9 +75,11 @@ Ploting or design
 
 ### Making graphs
 
--   Matplotlib different graphs: <https://matplotlib.org/gallery/index.html>
+-   Matplotlib different graphs:
+    <https://matplotlib.org/gallery/index.html>
 -   Online process flow chart: <https://www.processon.com/>
--   Povray -- stunning three-dimensional graphics: <http://www.povray.org/>
+-   Povray – stunning three-dimensional graphics:
+    <http://www.povray.org/>
 -   CorelDraw: <http://www.coreldrawchina.com/hualang.html>
 -   Panda3D: <http://www.panda3d.org/>
 -   ParaView: <https://www.paraview.org/>
@@ -84,12 +97,15 @@ Ploting or design
 
 ### Colors
 
--   Matpliblib named colors: <https://matplotlib.org/examples/color/named_colors.html>
+-   Matpliblib named colors:
+    <https://matplotlib.org/examples/color/named_colors.html>
 -   Interesting colors: <http://nipponcolors.com/#rokohcha>
 -   Color hex: <http://www.color-hex.com/>
 -   Color pick: <http://color.aurlien.net/>
--   The hundreds of most common RGB monitor colors: <https://xkcd.com/color/rgb/>
--   W3school html colors: <https://www.w3schools.com/colors/colors_shades.asp>
+-   The hundreds of most common RGB monitor colors:
+    <https://xkcd.com/color/rgb/>
+-   W3school html colors:
+    <https://www.w3schools.com/colors/colors_shades.asp>
 
 Coding
 ------
@@ -101,21 +117,26 @@ Coding
 
 ### Python
 
--   Official Python2 tutorial: <https://docs.python.org/2/tutorial/index.html>
--   Symbolic Mathematics: <http://www.scipy-lectures.org/advanced/sympy.html>
+-   Official Python2 tutorial:
+    <https://docs.python.org/2/tutorial/index.html>
+-   Symbolic Mathematics:
+    <http://www.scipy-lectures.org/advanced/sympy.html>
 -   Cheat sheets: <https://www.pythonsheets.com/>
 -   JSON: <https://docs.python.org/2/library/json.html>
 -   Python Enhancement proposal: <https://www.python.org/dev/peps/>
--   Idiomatic Python: <http://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/idiomatic-python.html>
+-   Idiomatic Python:
+    <http://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/idiomatic-python.html>
 
 ### C or C++
 
--   The GNU C Library: <https://www.gnu.org/software/libc/manual/html_node/index.html>
+-   The GNU C Library:
+    <https://www.gnu.org/software/libc/manual/html_node/index.html>
 -   Google style guide: <https://www.gnu.org/software/octave/index.html>
 
 ### Fortran
 
--   Programming in FORTRAN: <http://www.chem.ox.ac.uk/fortran/fortran1.html>
+-   Programming in FORTRAN:
+    <http://www.chem.ox.ac.uk/fortran/fortran1.html>
 
 ### Octave
 
@@ -150,13 +171,18 @@ Scientific calculation
 ### Math and Physics
 
 -   Physical Education: <https://www.compadre.org/>
--   Space Group Symbols: <http://www.cryst.ehu.es/cgi-bin/cryst/programs/nph-wp-list>
+-   Space Group Symbols:
+    <http://www.cryst.ehu.es/cgi-bin/cryst/programs/nph-wp-list>
 -   The periodic table of the elements: <https://www.webelements.com/>
--   Bilbao crystallographic server: <http://www.cryst.ehu.es/#retrievaltop>
+-   Bilbao crystallographic server:
+    <http://www.cryst.ehu.es/#retrievaltop>
 -   Feyman Lectures: <http://www.cryst.ehu.es/#retrievaltop>
--   Thermodynamics and Differential Forms: <http://www.av8n.com/physics/thermo-forms.htm#eq-bdyE>
--   Alloy Phase Diagrams: <http://www.factsage.cn/fact/documentation/SGTE/SGTE_Figs.htm>
--   ASM Alloy Phyase Diagrams: <https://matdata.asminternational.org/apd/index.aspx>
+-   Thermodynamics and Differential Forms:
+    <http://www.av8n.com/physics/thermo-forms.htm#eq-bdyE>
+-   Alloy Phase Diagrams:
+    <http://www.factsage.cn/fact/documentation/SGTE/SGTE_Figs.htm>
+-   ASM Alloy Phyase Diagrams:
+    <https://matdata.asminternational.org/apd/index.aspx>
 -   Interesting Blog: <http://openmetric.org>
 
 Other useful packages or website
