@@ -1,4 +1,4 @@
-# Useful or interesting website.
+# Useful or interesting website
 
 ## Journals
 
@@ -14,6 +14,10 @@
 
 ## Tools
 
+### latex
+
+* Table generator for latex/markdown/html <http://www.tablesgenerator.com/latex_tables>
+
 ### Extract data from a graph
 
 * Datathief: <http://www.datathief.org/>
@@ -27,7 +31,7 @@
 * Jekyllrb: <https://jekyllrb.com/>
 * mkdoc: <http://www.mkdocs.org/>
 
-### Remote desktop: 
+### Remote desktop
 
 * Teamviewer: <https://www.teamviewer.com/en/download/linux/>
 
@@ -134,4 +138,3 @@
 * CodeAcademy: <https://www.codecademy.com/catalog/subject/all>
 * LeetCode: <https://leetcode.com/>
 * ZetCode: <http://zetcode.com/>
-
